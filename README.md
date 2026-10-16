@@ -99,10 +99,3 @@
 ## Pregunta-25
 **C. PS3, que almacena el texto con el que select solicita la opción.** 
 *PS3 es la variable que guarda el texto que muestra select cuando te pide elegir una opción.*
-
-- Elemento	Crea una lista con viñetas.	- HTML
-* Elemento	También crea una lista con viñetas.	* CSS
-1. Elemento	Crea una lista numerada.	1. Instalar Git
-- [ ] Tarea	Crea una tarea sin completar.	- [ ] Crear el diseño
-- [x] Tarea	Muestra una tarea completada.	- [x] Crear el repositorio
--->
