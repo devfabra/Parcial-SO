@@ -1,5 +1,8 @@
 # Parcial-SO
 
+> Integrantes de parcial: Said Sepulveda, Miguel Rodriguez, Sebastian Fabra, Julian Rodriguez
+> Curso: Sistemas Operativos
+
 ## Pregunta-1
 **B.La sustitución de comandos, que asigna a una variable la salida del comando date.** 
 *Debido a que la sustitución de comandos ($(...)) captura la salida de date en una variable, que luego se usa para construir un nombre de archivo único en cada ejecución del respaldo.*
