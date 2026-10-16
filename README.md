@@ -1,3 +1,5 @@
+# Parcial-SO
+
 <!-- 
 Títulos y formato de texto
 
@@ -22,4 +24,3 @@ Sintaxis	Significado	Ejemplo
 - [ ] Tarea	Crea una tarea sin completar.	- [ ] Crear el diseño
 - [x] Tarea	Muestra una tarea completada.	- [x] Crear el repositorio
 -->
-# Parcial-SO
