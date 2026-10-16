@@ -1,6 +1,6 @@
 # Parcial-SO
 
-> Integrantes de parcial: Said Sepulveda, Miguel Rodriguez, Sebastian Fabra, Julian Rodriguez
+> Integrantes de parcial: Said Sepulveda, Miguel Rodriguez, Sebastian Fabra, Julian Rodriguez<br><br>
 > Curso: Sistemas Operativos
 
 ## Pregunta-1
